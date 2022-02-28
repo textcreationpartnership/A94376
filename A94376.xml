@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo prophecies full of wonder and admiration. Made by Humphrey Tindall Vicar of Wellin [sic] two hundred yeares past: and after his death, found in his study, with his name subscribed thereunto. And some sixty years since coppied out by a worthy gentlem [sic] and ever since kept private. Foretelling many strange accidents which shall befall to this kingdom.</title>
+            <author>Tindall, Humphrey, 1549-1614.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94376</idno>
+            <idno type="STC">Wing T1298</idno>
+            <idno type="STC">Thomason E34_6</idno>
+            <idno type="STC">ESTC R12379</idno>
+            <idno type="EEBO-CITATION">99859272</idno>
+            <idno type="PROQUEST">99859272</idno>
+            <idno type="VID">111344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111344)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E34[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo prophecies full of wonder and admiration. Made by Humphrey Tindall Vicar of Wellin [sic] two hundred yeares past: and after his death, found in his study, with his name subscribed thereunto. And some sixty years since coppied out by a worthy gentlem [sic] and ever since kept private. Foretelling many strange accidents which shall befall to this kingdom.</title>
+                  <author>Tindall, Humphrey, 1549-1614.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Bern: Alsop, according to Order,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Feb: 23 1643".</note>
+                  <note>possibly the "sics" above ought to read "Welliger" and "Gentleman", but blank on title page.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111344:1" rendition="simple:additions"/>
+            <p>TVVO PROPHECIES <hi>Full of Wonder and Admiration.</hi>
+            </p>
+            <p>MADE <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>HUMPHREY TINDALL</hi> Vicar of <hi>Wellin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> two hundred yeares paſt: And after his death, found in his Study, with his Name ſubſcribed thereunto.</p>
+            <p>And ſome ſixty years ſince coppied out by a worthy Gentlem<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ever ſince kept private.</p>
+            <p>Foretelling many ſtrange accidents which ſhall befall to this Kingdom.</p>
+            <figure>
+               <figDesc>depiction of Humphrey Tindall, vicar of Welling</figDesc>
+            </figure>
+            <p>
+               <add>feb: 23 1643</add>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Bern: Alſop,</hi> according to Order. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:111344:2"/>
+            <pb n="1" facs="tcp:111344:2"/>
+            <head>TWO PROPHECIES MADE BY HVMPHREY TINDALL VICAR of <hi>WELLING,</hi> Two hundred yearees paſt, and after his death found in his ſtudy, with his name ſubſcribed there<g ref="char:EOLhyphen"/>unto and ſome ſixty yeers ſince coppied out by a worthy Gentleman; and ever ſince, kept private.</head>
+            <div n="1" type="part">
+               <l>THE time will come, as true as the Creed</l>
+               <l>Of Prieſts and Clerks we ſhall have need;</l>
+               <l>Churches ſhall fall, it ſhall be great wonder,</l>
+               <l>The Clergy, and Laity, they ſhall be aſunder;</l>
+               <l>Hnd praying to Saints, ſhall paſſe away</l>
+               <l>And holy writ ſhall teach us, what is to ſay:</l>
+               <pb n="2" facs="tcp:111344:3"/>
+               <l> The Churches where Images were wont to be ſet</l>
+               <l>With lively letters, they ſhall be writ;</l>
+               <l>Though young mens hearts, as heavy as lead,</l>
+               <l>Both young and old may them read:</l>
+               <l>But to God of his preheminence, and of high Throne,</l>
+               <l>All honour ſhall be to him alone:</l>
+               <l>For fancies ſhall faile, and right ſhall appeare,</l>
+               <l>And thus it ſhall continue from yeare to yeare.</l>
+               <l>But at the laſt a world to tell,</l>
+               <l>There ſhall be ſtirred ſtr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe with many a Battell:</l>
+               <l>For a double danger ſhall be the cauſe,</l>
+               <l>For oft changing and breaking of Lawes.</l>
+               <l>The other ſhall be, if you read aright,</l>
+               <l>The loſſes of Lords, Earles and Knights:</l>
+               <l>For woe worth the time, and woe worth for ſorrow,</l>
+               <l>Miſchiefe drawes on, and it will woe borrow.</l>
+               <l>A maiden Queen ſhall have in hand to govern,</l>
+               <l>And rule this her Hand:</l>
+               <l>Her Lords by righteouſneſſe rule ſhall ſhee,</l>
+               <l>At length of her great Realme diſcharged ſhall be.</l>
+               <l>For Berons and Lord a promiſe shall make,</l>
+               <l>Of Gods holy word, that part to take:</l>
+               <l>But Prelates in pride their luſt to fulfill</l>
+               <l>Shall cauſe thereby much miſchiefe and ill:</l>
+               <l>VVhich made ſay both Prieſt and Clerk<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>They never heard of ſuch a peece of worke.</l>
+               <l>For happy ſhall he be then, that is ſo true</l>
+               <l>That can bid <hi>Brittain</hi> farwell and adeiw:</l>
+               <l>For ſorrowes ſhall come both to high and to low,</l>
+               <l>How one man ſhall truſt another, no man ſhall know.</l>
+               <pb n="3" facs="tcp:111344:3"/>
+               <l> For then Ladies with ſorrow ſhall ſing,</l>
+               <l>And widdowes and maids their hands ſhall wring.</l>
+               <l>Children at their paps shall dye in the ſtreet,</l>
+               <l>All kind of creatures shall mourn, and weep.</l>
+               <l>VVoe and alas then may be ſaid</l>
+               <l>All kind of paſtimes downe shall be laid.</l>
+               <l>Then Caſtles and Towers, and all pleaſant buildings</l>
+               <l>Shall be deſtroyed, and come to endings.</l>
+               <l>Then who ſo be in bed over night,</l>
+               <l>The next morning shall be preſt to fight:</l>
+               <l>Then great ſorrow, hunger and pain;</l>
+               <l>To eat dead folk, men shall be fain</l>
+               <l>VVoe worth that ſinne, that this cauſe should be</l>
+               <l>To cauſe God thus, to shew ſuch extremity,</l>
+               <l>But a voyce shall come both night and day</l>
+               <l>Crying to heaven, to call you away:</l>
+               <l>But ſorrow and paine for our offences</l>
+               <l>VVith battell, famine, and peſtilences:</l>
+               <l>As a diſſolved land brought shall it be,</l>
+               <l>But who knowes more, no, no, but he:</l>
+               <l>Then a peace there shall be pretended,</l>
+               <l>That peace may be diſſembled:</l>
+               <l>That peace may be removed,</l>
+               <l>That peace will falſe be proved.</l>
+               <l>But now great ſights will appear,</l>
+               <l>For great <hi>Mars</hi> Armipotent will be very diligent,</l>
+               <l>His bloudy bands of ſteele to whet,</l>
+               <l>Vpon their ſide, that we shall them betide;</l>
+               <l>This <hi>Mars</hi> with cruel faction, with Nation unto Nation,</l>
+               <l>And all <hi>Bri<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tish</hi> ſcituation, shall be with oppreſsion:</l>
+               <pb n="4" facs="tcp:111344:4"/>
+               <l> And ſtill ride in their paſsion.</l>
+               <l>
+                  <hi>Flanders</hi> ſhall riſe in with <hi>France,</hi>
+               </l>
+               <l>With ſpeare with ſhield, Bill and Launce;</l>
+               <l>Confetered with all yance,</l>
+               <l>To offer their defiance;</l>
+               <l>Spaine ſhall imploy the <hi>Brittains</hi> to annoy</l>
+               <l>The <hi>Iriſh,</hi> us to deſtroy; the <hi>Welchmen</hi> to annoy,</l>
+               <l>The <hi>Danes,</hi> to pluck and pull: all this reſurrection</l>
+               <l>Shal put to their ful fection, to bring thee to deſtruction,</l>
+               <l>
+                  <hi>Brittain</hi> take this admonition,</l>
+               <l>Be wiſe and change thy condition:</l>
+               <l>Doubt not, but think it ſure, this ſtorm thou ſhalt indure:</l>
+               <l>VVith heart confeſſe, and to heaven redreſſe thee,</l>
+               <l>For <hi>Brittaines</hi> name ſhall cleave away</l>
+               <l>Out of this land, for ever and aye.</l>
+               <trailer>The End of the firſt Prophecie.</trailer>
+            </div>
+            <div n="2" type="part">
+               <pb n="5" facs="tcp:111344:4"/>
+               <head>THE SECOND PROPHESY OF <hi>HUMPHREY TINDALL,</hi> Vicar of <hi>Welling.</hi>
+               </head>
+               <l>WHen Rome is removed into England,</l>
+               <l>And every Prieſt the Popes power ſhal have in hand,</l>
+               <l>Betwixt ſixe and three as I underſtand,</l>
+               <l>This Battle ſhall be in Britton land.</l>
+               <l>When pride is moſt preſt, and lecherie moſt rife,</l>
+               <l>And Knights and Knaves clad both in a clothing,</l>
+               <l>Holy Church awleſſe, and the Land law leſſe,</l>
+               <l>By the yeares of Chriſt be come and gone,</l>
+               <l>In the Land of Albion ſhall be much confuſion;</l>
+               <l>Clerkes ſhall be taxed and great benefits have,</l>
+               <l>VVith flattring &amp; fawning their Prince they ſhal pleaſe</l>
+               <l>And all againſt the Lawes they ſhall rave,</l>
+               <pb n="6" facs="tcp:111344:5"/>
+               <l> And cauſe the Commons to be at great diſcord.</l>
+               <l>A dreadfull Dragon with a red Roſe of great fame</l>
+               <l>A Baſtard in wedlocke borne ſhall be,</l>
+               <l>The Crowne to attain to challenge by name,</l>
+               <l>
+                  <hi>Tunc veniet puer ubinam ille.</hi>
+               </l>
+               <l>The ſhorteſt night and longeſt day that ſhall be found in the whole yeare.</l>
+               <l>There ſhall be challenges in fight great deſire to ſee and heare.</l>
+               <l>Penticoſt night ſhall be cloathed in white in token of Lightening,</l>
+               <l>For to be at Candlemas when torehes be light, a new Mumming for to be.</l>
+               <l>Afterward to be convayed out of the Northward to meet at Ravenſpron.</l>
+               <l>
+                  <hi>S.</hi> and <hi>P.</hi> ſhall ſtand in caſe full hard.</l>
+               <l>Till as the Keeper of the Crowne,</l>
+               <l>Shall dye upon his brothers ſword point,</l>
+               <l>Then all ſhall be turned up ſide downe.</l>
+               <l>Then a Lion ſhall come out of the VVeſt,</l>
+               <l>To ſtirre them for to ceaſe.</l>
+               <l>Then ſhall there be no manner of reſt,</l>
+               <l>Till twenty hundred Steeds run maſterleſſe away.</l>
+               <l>A wet Summer before this ſhall be: a bloody harveſt,</l>
+               <l>A wallowing winter, and a windy Lent, after this ſhall be.</l>
+            </div>
+            <trailer>Thus endeth <hi>Humphrey Tindall</hi> Vicar of Welling.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
